@@ -129,5 +129,8 @@
       }
     }
   },
-  "defaultProject": "ngrx-big-example"
+  "defaultProject": "ngrx-big-example",
+  "cli": {
+    "defaultCollection": "@nativescript/schematics"
+  }
 }
